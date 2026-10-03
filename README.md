@@ -16,17 +16,11 @@ This is a Master's thesis project from the Computer Science Department of Badji 
 **Doctor dashboard**, **new patient form** (multi-step: patient, vaccination, medical history) and the confirmation page with a *Predict side effects* button
 
 ![Dashboard](docs/screenshots/dashboard.png)
-![New patient](docs/screenshots/new-patient.png)
-![Patient added](docs/screenshots/patient-added.png)
 
 **Prediction results**: ranked side effects, averaged across the three models, with each model's own score
 
 ![Prediction results](docs/screenshots/prediction-results.png)
 
-**Public side-effect report form** and **doctor login**
-
-![Report side effects](docs/screenshots/report-side-effects.png)
-![Doctor login](docs/screenshots/doctor-login.png)
 
 ## Features
 
