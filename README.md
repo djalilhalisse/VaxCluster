@@ -10,7 +10,7 @@ This is a Master's thesis project from the Computer Science Department of Badji 
 
 **Home page**: three-cluster visual and a three-step overview
 
-![Home page](docs/screenshots/vaxcluster-thumbnail-light.png)
+![Home page](docs/screenshots/vaxcluster-thumbnail.png)
 ![Home page](docs/screenshots/VaxCluster.png)
 
 **Doctor dashboard**, **new patient form** (multi-step: patient, vaccination, medical history) and the confirmation page with a *Predict side effects* button
